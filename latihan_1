@@ -10,3 +10,5 @@ if __name__ == '__main__':
     root = Tk() 
     aplikasi = FormBlanko(root, "Program")
     root.mainloop()
+
+
