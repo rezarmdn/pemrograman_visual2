@@ -1,3 +1,3 @@
 
-tugas : praktikum
+tugas : praktikum;
 nama  : reza ramadhan
