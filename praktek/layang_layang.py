@@ -25,7 +25,7 @@ class FrmPersegi:
         Label(mainFrame, text="masukan sisi 1:", border=0, width=30, font=30, background="#C9EEFF").grid(row=5, column=0, sticky=W, padx=5, pady=5)
         Label(mainFrame, text="masukan sisi 2:", border=0, width=30, font=30, background="#C9EEFF").grid(row=7, column=0, sticky=W, padx=5, pady=5)
         Label(mainFrame, text="luas Layang-Layang Adalah:", border=0, width=30, font=30, background="#C9EEFF").grid(row=10, column=0, sticky=W, padx=5, pady=5)
-        Label(mainFrame, text="luasKeliling Layang-Layang Adalah:", border=0, width=30, font=30, background="#C9EEFF").grid(row=12, column=0, sticky=W, padx=5, pady=5)
+        Label(mainFrame, text="Keliling Layang-Layang Adalah:", border=0, width=30, font=30, background="#C9EEFF").grid(row=12, column=0, sticky=W, padx=5, pady=5)
 
 
         # pasang textbox
