@@ -36,7 +36,7 @@ class FrmPersegi:
         self.btnHitung = Button(mainFrame, text='Hitung', command=self.onHitung,  border=0, width=15, font=20, background="#FFACAC")
         self.btnHitung.grid(row=2, column=1, padx=5, pady=5)
     
-    # fungsi untuk menghitung luas r 
+    # fungsi untuk menghitung luas dan keliling lingkaran
     def onHitung(self):
         # perhitungan dengan metode Pemrograman  Terstruktur 
         r = int(self.txtlingkaran.get())
