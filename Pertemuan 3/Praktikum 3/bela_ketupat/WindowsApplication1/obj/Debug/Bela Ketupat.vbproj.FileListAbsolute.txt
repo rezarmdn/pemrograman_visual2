@@ -1,0 +1,22 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\obj\Debug\Bela Ketupat.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\obj\Debug\Bela Ketupat.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\bela_ketupat\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\bela_ketupat\WindowsApplication1\obj\Debug\Bela Ketupat.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\bela_ketupat\WindowsApplication1\obj\Debug\Bela Ketupat.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\bela_ketupat\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\bela_ketupat\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\bela_ketupat\WindowsApplication1\bin\Debug\WindowsApplication1.xml
