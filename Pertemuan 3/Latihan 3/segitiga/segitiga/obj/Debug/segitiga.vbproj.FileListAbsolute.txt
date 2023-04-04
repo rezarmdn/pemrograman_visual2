@@ -1,0 +1,11 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\segitiga\segitiga\bin\Debug\segitiga.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\segitiga\segitiga\obj\Debug\segitiga.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\segitiga\segitiga\obj\Debug\segitiga.Segitiga.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\segitiga\segitiga\obj\Debug\segitiga.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\segitiga\segitiga\obj\Debug\segitiga.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\segitiga\segitiga\obj\Debug\segitiga.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\segitiga\segitiga\bin\Debug\segitiga.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\segitiga\segitiga\bin\Debug\segitiga.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\segitiga\segitiga\bin\Debug\segitiga.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\segitiga\segitiga\obj\Debug\segitiga.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\segitiga\segitiga\obj\Debug\segitiga.pdb
