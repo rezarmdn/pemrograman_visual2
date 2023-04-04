@@ -1,0 +1,11 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Layang_Layang\Layang_Layang\bin\Debug\Layang_Layang.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Layang_Layang\Layang_Layang\bin\Debug\Layang_Layang.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Layang_Layang\Layang_Layang\bin\Debug\Layang_Layang.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Layang_Layang\Layang_Layang\bin\Debug\Layang_Layang.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Layang_Layang\Layang_Layang\obj\Debug\Layang_Layang.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Layang_Layang\Layang_Layang\obj\Debug\Layang_Layang.Layang_Layang.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Layang_Layang\Layang_Layang\obj\Debug\Layang_Layang.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Layang_Layang\Layang_Layang\obj\Debug\Layang_Layang.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Layang_Layang\Layang_Layang\obj\Debug\Layang_Layang.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Layang_Layang\Layang_Layang\obj\Debug\Layang_Layang.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Layang_Layang\Layang_Layang\obj\Debug\Layang_Layang.pdb
