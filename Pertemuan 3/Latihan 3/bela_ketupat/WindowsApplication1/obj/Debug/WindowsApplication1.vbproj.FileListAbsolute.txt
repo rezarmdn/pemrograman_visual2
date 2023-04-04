@@ -1,0 +1,22 @@
+c:\users\legion\onedrive\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\legion\onedrive\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\legion\onedrive\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\legion\onedrive\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\legion\onedrive\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\legion\onedrive\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\legion\onedrive\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\legion\onedrive\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\legion\onedrive\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\legion\onedrive\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\legion\onedrive\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\bela_ketupat\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
