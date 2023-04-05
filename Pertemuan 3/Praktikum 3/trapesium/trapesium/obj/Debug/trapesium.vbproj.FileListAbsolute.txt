@@ -1,0 +1,22 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\trapesium\trapesium\bin\Debug\trapesium.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\trapesium\trapesium\bin\Debug\trapesium.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\trapesium\trapesium\bin\Debug\trapesium.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\trapesium\trapesium\bin\Debug\trapesium.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\trapesium\trapesium\obj\Debug\trapesium.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\trapesium\trapesium\obj\Debug\trapesium.Trapesium.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\trapesium\trapesium\obj\Debug\trapesium.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\trapesium\trapesium\obj\Debug\trapesium.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\trapesium\trapesium\obj\Debug\trapesium.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\trapesium\trapesium\obj\Debug\trapesium.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\trapesium\trapesium\obj\Debug\trapesium.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\trapesium\trapesium\bin\Debug\trapesium.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\trapesium\trapesium\obj\Debug\trapesium.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\trapesium\trapesium\obj\Debug\trapesium.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\trapesium\trapesium\obj\Debug\trapesium.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\trapesium\trapesium\bin\Debug\trapesium.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\trapesium\trapesium\bin\Debug\trapesium.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\trapesium\trapesium\bin\Debug\trapesium.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\trapesium\trapesium\obj\Debug\trapesium.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\trapesium\trapesium\obj\Debug\trapesium.Trapesium.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\trapesium\trapesium\obj\Debug\trapesium.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\trapesium\trapesium\obj\Debug\trapesium.vbproj.GenerateResource.Cache
