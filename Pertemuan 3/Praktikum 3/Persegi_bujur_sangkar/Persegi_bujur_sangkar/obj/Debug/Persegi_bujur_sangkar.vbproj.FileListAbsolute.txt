@@ -1,0 +1,22 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Persegi_bujur_sangkar\Persegi_bujur_sangkar\bin\Debug\Persegi_bujur_sangkar.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Persegi_bujur_sangkar\Persegi_bujur_sangkar\bin\Debug\Persegi_bujur_sangkar.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Persegi_bujur_sangkar\Persegi_bujur_sangkar\bin\Debug\Persegi_bujur_sangkar.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Persegi_bujur_sangkar\Persegi_bujur_sangkar\bin\Debug\Persegi_bujur_sangkar.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Persegi_bujur_sangkar\Persegi_bujur_sangkar\obj\Debug\Persegi_bujur_sangkar.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Persegi_bujur_sangkar\Persegi_bujur_sangkar\obj\Debug\Persegi_bujur_sangkar.Persegi_bujur_sangkar.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Persegi_bujur_sangkar\Persegi_bujur_sangkar\obj\Debug\Persegi_bujur_sangkar.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Persegi_bujur_sangkar\Persegi_bujur_sangkar\obj\Debug\Persegi_bujur_sangkar.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Persegi_bujur_sangkar\Persegi_bujur_sangkar\obj\Debug\Persegi_bujur_sangkar.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Persegi_bujur_sangkar\Persegi_bujur_sangkar\obj\Debug\Persegi_bujur_sangkar.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\Persegi_bujur_sangkar\Persegi_bujur_sangkar\obj\Debug\Persegi_bujur_sangkar.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\Persegi_bujur_sangkar\Persegi_bujur_sangkar\bin\Debug\Persegi_bujur_sangkar.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\Persegi_bujur_sangkar\Persegi_bujur_sangkar\obj\Debug\Persegi_bujur_sangkar.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\Persegi_bujur_sangkar\Persegi_bujur_sangkar\obj\Debug\Persegi_bujur_sangkar.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\Persegi_bujur_sangkar\Persegi_bujur_sangkar\obj\Debug\Persegi_bujur_sangkar.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\Persegi_bujur_sangkar\Persegi_bujur_sangkar\bin\Debug\Persegi_bujur_sangkar.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\Persegi_bujur_sangkar\Persegi_bujur_sangkar\bin\Debug\Persegi_bujur_sangkar.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\Persegi_bujur_sangkar\Persegi_bujur_sangkar\bin\Debug\Persegi_bujur_sangkar.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\Persegi_bujur_sangkar\Persegi_bujur_sangkar\obj\Debug\Persegi_bujur_sangkar.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\Persegi_bujur_sangkar\Persegi_bujur_sangkar\obj\Debug\Persegi_bujur_sangkar.Persegi_bujur_sangkar.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\Persegi_bujur_sangkar\Persegi_bujur_sangkar\obj\Debug\Persegi_bujur_sangkar.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\latihan 3 menggunakan vs interprise\tugas 3\Persegi_bujur_sangkar\Persegi_bujur_sangkar\obj\Debug\Persegi_bujur_sangkar.vbproj.GenerateResource.Cache
