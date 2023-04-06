@@ -1,0 +1,11 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Reamur Ke Kelvin\Reamur Ke Kelvin\bin\Debug\Reamur Ke Kelvin.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Reamur Ke Kelvin\Reamur Ke Kelvin\bin\Debug\Reamur Ke Kelvin.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Reamur Ke Kelvin\Reamur Ke Kelvin\bin\Debug\Reamur Ke Kelvin.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Reamur Ke Kelvin\Reamur Ke Kelvin\bin\Debug\Reamur Ke Kelvin.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Reamur Ke Kelvin\Reamur Ke Kelvin\obj\Debug\Reamur Ke Kelvin.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Reamur Ke Kelvin\Reamur Ke Kelvin\obj\Debug\Reamur_Ke_Kelvin.Konversi_Reamur_ke_Kelvin.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Reamur Ke Kelvin\Reamur Ke Kelvin\obj\Debug\Reamur_Ke_Kelvin.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Reamur Ke Kelvin\Reamur Ke Kelvin\obj\Debug\Reamur Ke Kelvin.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Reamur Ke Kelvin\Reamur Ke Kelvin\obj\Debug\Reamur Ke Kelvin.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Reamur Ke Kelvin\Reamur Ke Kelvin\obj\Debug\Reamur Ke Kelvin.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Reamur Ke Kelvin\Reamur Ke Kelvin\obj\Debug\Reamur Ke Kelvin.pdb
