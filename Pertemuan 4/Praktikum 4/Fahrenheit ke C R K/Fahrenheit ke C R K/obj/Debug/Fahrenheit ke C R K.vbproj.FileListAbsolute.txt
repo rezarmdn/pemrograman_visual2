@@ -1,0 +1,11 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Fahrenheit ke C R K\Fahrenheit ke C R K\bin\Debug\Fahrenheit ke C R K.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Fahrenheit ke C R K\Fahrenheit ke C R K\bin\Debug\Fahrenheit ke C R K.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Fahrenheit ke C R K\Fahrenheit ke C R K\bin\Debug\Fahrenheit ke C R K.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Fahrenheit ke C R K\Fahrenheit ke C R K\bin\Debug\Fahrenheit ke C R K.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Fahrenheit ke C R K\Fahrenheit ke C R K\obj\Debug\Fahrenheit ke C R K.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Fahrenheit ke C R K\Fahrenheit ke C R K\obj\Debug\Fahrenheit_ke_C_R_K.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Fahrenheit ke C R K\Fahrenheit ke C R K\obj\Debug\Fahrenheit ke C R K.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Fahrenheit ke C R K\Fahrenheit ke C R K\obj\Debug\Fahrenheit ke C R K.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Fahrenheit ke C R K\Fahrenheit ke C R K\obj\Debug\Fahrenheit ke C R K.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Fahrenheit ke C R K\Fahrenheit ke C R K\obj\Debug\Fahrenheit ke C R K.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Fahrenheit ke C R K\Fahrenheit ke C R K\obj\Debug\Fahrenheit_ke_C_R_K.Konversi_Fahrenheit_Ke_Celcius_Reamur_Kelvin.resources
