@@ -1,0 +1,11 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Fahrenheit Ke Reamur\Fahrenheit Ke Reamur\bin\Debug\Fahrenheit Ke Reamur.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Fahrenheit Ke Reamur\Fahrenheit Ke Reamur\bin\Debug\Fahrenheit Ke Reamur.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Fahrenheit Ke Reamur\Fahrenheit Ke Reamur\bin\Debug\Fahrenheit Ke Reamur.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Fahrenheit Ke Reamur\Fahrenheit Ke Reamur\bin\Debug\Fahrenheit Ke Reamur.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Fahrenheit Ke Reamur\Fahrenheit Ke Reamur\obj\Debug\Fahrenheit Ke Reamur.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Fahrenheit Ke Reamur\Fahrenheit Ke Reamur\obj\Debug\Fahrenheit_Ke_Reamur.Konversi_Fahrenheit_Ke_Reamur.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Fahrenheit Ke Reamur\Fahrenheit Ke Reamur\obj\Debug\Fahrenheit_Ke_Reamur.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Fahrenheit Ke Reamur\Fahrenheit Ke Reamur\obj\Debug\Fahrenheit Ke Reamur.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Fahrenheit Ke Reamur\Fahrenheit Ke Reamur\obj\Debug\Fahrenheit Ke Reamur.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Fahrenheit Ke Reamur\Fahrenheit Ke Reamur\obj\Debug\Fahrenheit Ke Reamur.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas 3\Fahrenheit Ke Reamur\Fahrenheit Ke Reamur\obj\Debug\Fahrenheit Ke Reamur.pdb
