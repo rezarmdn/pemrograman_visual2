@@ -1,5 +1,5 @@
 # PERTEMUAN 4
-# Software Menggunakan Visual Interprise 2015
+# Software Menggunakan Visual Studio Interprise 2015
 Visual Basic.Net
 
 # Latihan: (Selesai)
