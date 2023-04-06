@@ -1,5 +1,6 @@
 # PERTEMUAN 4
 # Software Menggunakan Visual Interprise
+Visual Basic.Net
 
 # Latihan: (Selesai)
 1.Membuat aplikasi sederhana untuk konversi dari Celcius ke :
