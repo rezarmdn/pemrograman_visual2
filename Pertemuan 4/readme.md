@@ -1,14 +1,14 @@
 # PERTEMUAN 4
 
-# Latihan:
+# Latihan: (Selesai)
 1.Membuat aplikasi sederhana untuk konversi dari Celcius ke :
-Fahrenheit, Reamur, Kelvin
+Fahrenheit, Reamur, Kelvin 
 
-# Praktikum:
+# Praktikum: (Belum)
 1. Buatlah program sederhana untuk konversi dari Fahrenheit ke :
-Celcius, Reamur, dan Kelvin
+Celcius, Reamur, dan Kelvin 
 
-# Tugas:
+# Tugas: (Belum)
 1. Buatlah program sederhana untuk konversi dari Reamur ke :
 Celcius, Fahrenheit, dan Kelvin
 
