@@ -4,7 +4,7 @@
 1.Membuat aplikasi sederhana untuk konversi dari Celcius ke :
 Fahrenheit, Reamur, Kelvin 
 
-# Praktikum: (Belum)
+# Praktikum: (Selesai)
 1. Buatlah program sederhana untuk konversi dari Fahrenheit ke :
 Celcius, Reamur, dan Kelvin 
 
