@@ -12,6 +12,9 @@ Fahrenheit, Reamur, Kelvin
 Celcius, Reamur, dan Kelvin 
 
 # Tugas: (Selesai)
+
+LAPORAN = [LAPORAN_PRAKTIKUM_PEMROGRAMAN VISUAL_TUGAS 4_ REZA RAMADHAN_R4_200511078.pdf](https://github.com/rezarmdn/pemrograman_visual2/files/11175814/LAPORAN_PRAKTIKUM_PEMROGRAMAN.VISUAL_TUGAS.4_.REZA.RAMADHAN_R4_200511078.pdf)
+
 1. Buatlah program sederhana untuk konversi dari Reamur ke :
 Celcius, Fahrenheit, dan Kelvin
 
