@@ -6,10 +6,10 @@ Visual Basic.Net
 # Latihan: (Selesai)
 1.Membuat aplikasi sederhana untuk konversi dari Celcius ke :
 Fahrenheit, Reamur, Kelvin 
-#SCREENSH
-![Konversi Celcius Ke Fahrenheit Reamur Kelvin](https://user-images.githubusercontent.com/97609184/230518674-f17a91ff-8976-4025-83d9-f1eac70a2da0.png)
-OOT
 
+#SCREENSHOOT
+
+![Konversi Celcius Ke Fahrenheit Reamur Kelvin](https://user-images.githubusercontent.com/97609184/230518674-f17a91ff-8976-4025-83d9-f1eac70a2da0.png)
 
 
 # Praktikum: (Selesai)
