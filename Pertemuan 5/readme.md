@@ -11,19 +11,34 @@ Visual Basic.Net
    Nilai Akhir. Kemudian dibuatlah penentuan Nilai Mutunya
 
    NIM : 
+   
    Nama :
+   
    Prodi :
+   
    Nilai Kehadiran :
+   
    Nilai Tugas :
+   
    Nilai UTS :
+   
    Nilai UAS :
+   
    Nilai Akhir :
+   
    Nilai Mutu :
 
    Keterangan :
+   
    Nilai Akhir = (25% x KHD) + (35% x TGS) + (20% x UTS) + (20% x UAS)
+  
    A : 85 - 100
+   
    B : 75 - 84
+   
    C : 55 - 74
+   
    D : 30 - 54
+   
    E : 0 - 29
+   
