@@ -1,0 +1,11 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Prkatikum5_Pengguna_if_2\bin\Debug\Prkatikum5_Pengguna_if_2.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Prkatikum5_Pengguna_if_2\bin\Debug\Prkatikum5_Pengguna_if_2.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Prkatikum5_Pengguna_if_2\bin\Debug\Prkatikum5_Pengguna_if_2.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Prkatikum5_Pengguna_if_2\bin\Debug\Prkatikum5_Pengguna_if_2.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Prkatikum5_Pengguna_if_2\obj\Debug\Prkatikum5_Pengguna_if_2.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Prkatikum5_Pengguna_if_2\obj\Debug\Prkatikum5_Pengguna_if_2.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Prkatikum5_Pengguna_if_2\obj\Debug\Prkatikum5_Pengguna_if_2.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Prkatikum5_Pengguna_if_2\obj\Debug\Prkatikum5_Pengguna_if_2.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Prkatikum5_Pengguna_if_2\obj\Debug\Prkatikum5_Pengguna_if_2.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Prkatikum5_Pengguna_if_2\obj\Debug\Prkatikum5_Pengguna_if_2.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Prkatikum5_Pengguna_if_2\obj\Debug\Prkatikum5_Pengguna_if_2.Praktikum_Beri_Bintang_Gojek_By_Reza_Ramadhan.resources
