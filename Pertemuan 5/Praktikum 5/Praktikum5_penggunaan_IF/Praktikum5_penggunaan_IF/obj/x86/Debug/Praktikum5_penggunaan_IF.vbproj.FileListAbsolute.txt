@@ -1,0 +1,8 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\bin\x86\Debug\Praktikum5_penggunaan_IF.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\x86\Debug\Praktikum5_penggunaan_IF.Form1.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\x86\Debug\Praktikum5_penggunaan_IF.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\x86\Debug\Praktikum5_penggunaan_IF.Gojek_Reza_Ramadhan_200511078_TI20D.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\x86\Debug\Praktikum5_penggunaan_IF.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\x86\Debug\Praktikum5_penggunaan_IF.Gojek.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\x86\Debug\Praktikum5_penggunaan_IF.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\x86\Debug\Praktikum5_penggunaan_IF.form2.resources

@@ -1,0 +1,4 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\x64\Debug\Praktikum5_penggunaan_IF.Form1.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\x64\Debug\Praktikum5_penggunaan_IF.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\x64\Debug\Praktikum5_penggunaan_IF.Gojek.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\x64\Debug\Praktikum5_penggunaan_IF.vbproj.GenerateResource.Cache

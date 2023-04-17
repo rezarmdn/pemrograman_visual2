@@ -1,0 +1,12 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\bin\Debug\Praktikum5_penggunaan_IF.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\Debug\Praktikum5_penggunaan_IF.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\Debug\Praktikum5_penggunaan_IF.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\Debug\Praktikum5_penggunaan_IF.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\Debug\Praktikum5_penggunaan_IF.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\Debug\Praktikum5_penggunaan_IF.Form1.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\Debug\Praktikum5_penggunaan_IF.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\Debug\Praktikum5_penggunaan_IF.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\bin\Debug\Praktikum5_penggunaan_IF.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\bin\Debug\Praktikum5_penggunaan_IF.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\bin\Debug\Praktikum5_penggunaan_IF.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_penggunaan_IF\Praktikum5_penggunaan_IF\obj\Debug\Praktikum5_penggunaan_IF.Praktikum_Beri_Bintang_Gojek_By_Reza_Ramadhan.resources
