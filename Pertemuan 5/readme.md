@@ -5,7 +5,7 @@ Visual Basic.Net
 1. Buatlah 2 buah contoh penggunaan IF
 2. Buatlah 2 buah contoh penggunaan Select Case
 
-# Tugas (Belum)
+# Tugas (Selesai)
 1. Buatlah aplikasi untuk menentukan Nilai Mutu
    dengan sebelumya ada entry Nilai Kehadiran, Nilai Tugas, Nilai UTS dan Nilai UAS untuk mendapatkan
    Nilai Akhir. Kemudian dibuatlah penentuan Nilai Mutunya
