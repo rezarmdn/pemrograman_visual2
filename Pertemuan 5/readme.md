@@ -1,7 +1,7 @@
 # Software Menggunakan Visual code Interprise 2015
 Visual Basic.Net
 
-# Praktikum (Belum)
+# Praktikum (Selesai)
 1. Buatlah 2 buah contoh penggunaan IF
 2. Buatlah 2 buah contoh penggunaan Select Case
 
