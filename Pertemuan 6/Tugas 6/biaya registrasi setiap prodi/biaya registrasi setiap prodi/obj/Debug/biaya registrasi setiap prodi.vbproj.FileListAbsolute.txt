@@ -1,0 +1,11 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\biaya registrasi setiap prodi\biaya registrasi setiap prodi\bin\Debug\biaya registrasi setiap prodi.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\biaya registrasi setiap prodi\biaya registrasi setiap prodi\obj\Debug\biaya registrasi setiap prodi.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\biaya registrasi setiap prodi\biaya registrasi setiap prodi\obj\Debug\biaya registrasi setiap prodi.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\biaya registrasi setiap prodi\biaya registrasi setiap prodi\obj\Debug\biaya registrasi setiap prodi.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\biaya registrasi setiap prodi\biaya registrasi setiap prodi\bin\Debug\biaya registrasi setiap prodi.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\biaya registrasi setiap prodi\biaya registrasi setiap prodi\bin\Debug\biaya registrasi setiap prodi.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\biaya registrasi setiap prodi\biaya registrasi setiap prodi\bin\Debug\biaya registrasi setiap prodi.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\biaya registrasi setiap prodi\biaya registrasi setiap prodi\obj\Debug\biaya registrasi setiap prodi.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\biaya registrasi setiap prodi\biaya registrasi setiap prodi\obj\Debug\biaya_registrasi_setiap_prodi.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\biaya registrasi setiap prodi\biaya registrasi setiap prodi\obj\Debug\biaya registrasi setiap prodi.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\biaya registrasi setiap prodi\biaya registrasi setiap prodi\obj\Debug\biaya_registrasi_setiap_prodi.Biaya_Registrasi_Prodi_By_Reza_Ramadhan.resources
